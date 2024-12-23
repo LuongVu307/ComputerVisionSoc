@@ -1,9 +1,6 @@
 import numpy as np
 
 
-
-
-
 class Sequential:
     def add(self, layers):
         ...
